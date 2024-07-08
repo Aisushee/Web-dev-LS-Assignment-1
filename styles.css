@@ -1,0 +1,144 @@
+body{
+  background-color: #001e4d;
+  align-content: center;
+}
+h1{
+  font-size: 100px;
+  color: white;
+}
+ul {
+    list-style-type: none;
+    margin: 1px;
+    padding: 2px;
+    overflow: hidden;
+    background-color: whitesmoke;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #222;
+    text-align: center;
+    padding: 14px 30px;
+    text-decoration: none;
+    font-size: x-large;
+  }
+  img{ 
+    align-self:center ;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px; max-width: 1200px;
+  }
+
+p{
+    font-size: 30px;
+    font-style:oblique;
+}
+.about{
+     
+    
+        align-self: center;
+        background-color: white;
+        border: 2px solid black;
+        border-radius: 10px;
+        padding: 50px;
+        margin: 20px; max-width: 1200px;
+      
+}
+.motto{ 
+  align-self: center;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 50px;
+  margin: 20px;  max-width: 1200px;
+}
+
+.logo{
+  align-self: center;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 50px;
+  margin: 20px;
+  max-width: 1200px;
+}
+.overyears{
+  align-self: center;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 50px;
+  margin: 20px; max-width: 1200px;
+}
+.paris{
+  align-self: center;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 50px;
+  margin: 20px; max-width: 1200px;
+}
+body{
+  align-content: center;
+  margin: 90px;
+}
+.quiz{
+  background: #fff;
+  width: 90%;
+  max-width: 600px;
+  margin: 100px auto 0;
+  border-radius: 10px;
+  padding: 30px;
+}
+.quiz h1{
+  font-size: 25px;
+  border-bottom: 1px solid #333;
+  padding-bottom: 30px;
+  font-weight: 600;
+
+}
+.q{
+  width: 90%;
+  max-width: 600px;
+  padding: 20px 0;
+
+}
+.q h2{
+  font-size: 18px;
+  color: #001e4d;
+  font-weight: 600;
+}
+
+.btn {
+  background: #fff;
+  color: #222;
+  font-weight: 500;
+  width: 50%;
+  border: 1px solid #222;
+  padding: 10px;
+  margin: 10px 0;
+  text-align: left;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.btn:hover{
+  background: #222;
+  color: #fff;
+}
+#next-btn{
+  background: #001e4d;
+  color: #fff;
+  font-weight: 500;
+  width: 150px;
+  border: 0;
+  padding: 10px;
+  margin: 20px auto 0;
+  border-radius: 4px;
+  cursor: pointer;
+  display: none;
+}
